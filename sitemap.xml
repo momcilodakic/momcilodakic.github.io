@@ -24,12 +24,12 @@
 <url>
   <loc>https://www.narrativeplus.net/tools-product-concept.html</loc>
   <lastmod>2023-01-22T16:52:50+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://www.narrativeplus.net/tools-user-journey.html</loc>
   <lastmod>2023-01-22T16:52:50+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>https://www.narrativeplus.net/tools-user-story-mapping.html</loc>
@@ -39,21 +39,26 @@
 <url>
   <loc>https://www.narrativeplus.net/tools-roadmap.html</loc>
   <lastmod>2023-01-22T16:52:50+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://www.narrativeplus.net/tools-sprint-review-template.html</loc>
   <lastmod>2023-01-22T16:52:50+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://www.narrativeplus.net/pages-starter.html</loc>
   <lastmod>2023-01-22T16:52:50+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.10</priority>
 </url>
 <url>
   <loc>https://www.narrativeplus.net/frameworks-product-discovery.html</loc>
   <lastmod>2023-01-22T16:52:50+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.narrativeplus.net/tools-release-notes.html</loc>
+  <lastmod>2023-02-08T16:52:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
