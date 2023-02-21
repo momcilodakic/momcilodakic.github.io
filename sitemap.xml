@@ -12,11 +12,6 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.narrativeplus.net/index.html</loc>
-  <lastmod>2023-01-22T16:52:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://www.narrativeplus.net/tools-problem-statement.html</loc>
   <lastmod>2023-01-22T16:52:50+00:00</lastmod>
   <priority>0.80</priority>
@@ -59,7 +54,12 @@
 <url>
   <loc>https://www.narrativeplus.net/tools-release-notes.html</loc>
   <lastmod>2023-02-08T16:52:50+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.narrativeplus.net/product-accelerator-framework.html</loc>
+  <lastmod>2023-02-21T16:52:50+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 
 
